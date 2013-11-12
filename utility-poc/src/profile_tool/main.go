@@ -118,7 +118,7 @@ func project_action(action string, name string) {
 	switch action {
 	case "new":
 		log.Printf("Creating new project: %s\n", name)
-	case "install":
+	case "start":
 		project_yaml := "../projects/"+name+"/init.yaml"
 		file, err := ioutil.ReadFile(project_yaml)
 		if err != nil {
