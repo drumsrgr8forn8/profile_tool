@@ -1,0 +1,5 @@
+name: javascript
+version: 0.10.21
+prep:
+- "curl -O http://nodejs.org/dist/v0.10.21/node-v0.10.21-linux-x64.tar.gz"
+- "tar zxvf node-v0.10.21-linux-x64.tar.gz"
