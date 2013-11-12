@@ -1,0 +1,7 @@
+.DS_Store
+src/github.com
+src/launchpad.net
+src/j4k.co
+pkg/
+bin/
+*.swp

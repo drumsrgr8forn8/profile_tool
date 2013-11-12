@@ -1,0 +1,8 @@
+name: django
+version: 1.5.4
+language: python
+modules:
+- django
+- django-jinja2
+create:
+- "django-admin.py startproject"

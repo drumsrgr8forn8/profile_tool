@@ -1,0 +1,9 @@
+name: myproject
+version: 1.0
+language: python
+additional_languages:
+- javascript
+framework:
+- django
+base_directory: "/home/me/development/"
+post: "pip freeze > requirements.txt"
