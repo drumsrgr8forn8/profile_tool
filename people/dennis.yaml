@@ -1,0 +1,8 @@
+username: dennis
+packages:
+  - emacs
+  - tmux
+  - zsh
+configs:
+  - /some/template/file/.zshrc
+  - /some/template/file/.emacs.d/init.el
