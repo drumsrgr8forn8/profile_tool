@@ -8,7 +8,7 @@ Environments consist of the following components:
 
 - languages: the programming language used in the project.
 - frameworks: Language specific software layered on top
-- people: Defines customer setup for particular usernames (optional)
+- people: Defines custom setup for particular usernames (optional)
 
 Sputnik environments are about optimizing ramp-up time to new developers. An open-source project might publish a sputnik environment for contributors. A company might define an environment to help shorten the onboarding of new team members.
 
